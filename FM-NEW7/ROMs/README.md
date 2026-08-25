@@ -1,5 +1,5 @@
 # FM-NEW7 ROMs
-These are dumps from my machine.<br>
+These are raw dumps from my machine.  I think they probably need some sort of manipulation to use in an emulator, but should be usable as-is to burn new, physical ROMs.<br>
 
 A complete list can be found [here](https://haserin09.la.coocan.jp/fm7rom.html).<br>
 
