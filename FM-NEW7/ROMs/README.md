@@ -5,6 +5,15 @@ A complete list can be found [here](https://haserin09.la.coocan.jp/fm7rom.html).
 
 ## BOOT (M73)
 This is an MB8516 EPROM (2716) marked "TL11-11".<br>
+It contains four 512-byte banks selected by SW2-1 (A9) and SW2-2 (A10):
+- bank 0 = ROM boot (i.e. F-BASIC)
+- bank 1 = bubble memory boot
+- bank 2 = disk boot
+- bank 3 = halt (no boot)
+
+If bubble memory or disk boot is selected and those peripherals are not installed the machine will hang with a continuous tone from the speaker.<br>
+
+If halt/no boot is selected then the machine will not boot and just show a flashing cursor.<br>
 
 ## BASIC (M74)
 This is an MB83256 masked ROM (27256) with code 160.<br>
