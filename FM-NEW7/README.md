@@ -86,7 +86,7 @@ SW2 determines the following settings:
 | M73 | MB8516 | 2716 | 2K x 8 EPROM / mask ROM | Boot ROM (four 512 byte blocks) |
 | M74 | MB83256 (160) | 32K x 8 mask ROM (27256 footprint) | 32KByte mask ROM | F-BASIC V3.02 |
 | M75 | MB74LS30 | 74LS30 | 8-input NAND gate |  |
-| M76 | MB88401 | MB8840-series 4-bit MCU | Single-chip 4-bit microcontroller with internal mask ROM | Keyboard controller - key matrix scanning, key-code generation and LED control |
+| M76 | MB88401 (709M) | MB8840-series 4-bit MCU | Single-chip 4-bit microcontroller with internal mask ROM | Keyboard controller - key matrix scanning, key-code generation and LED control |
 | M77 | MB8265A-15 | 4164 | 64K x 1 bit DRAM, 150ns | Main RAM (8 devices = 64KB) |
 | M78 | MB8265A-15 | 4164 | 64K x 1 bit DRAM, 150ns | Main RAM (8 devices = 64KB) |
 | M79 | MB112T602 |  | Fujitsu semi-custom gate array | Unknown |
