@@ -1,5 +1,12 @@
 # Fujitsu FM-NEW7
 
+## DIP Switch Settings (SW2)
+SW2 determines the following settings:
+- SW2-1 = Boot ROM A9 address (off=high, on=low)
+- SW2-2 = Boot ROM A10 address (off=high, on=low)
+- SW2-3 = unknown purpose
+- SW2-4 = clock speed (1MHz for FM-8 compatibility, 2MHz)
+
 ## IC BOM
 
 | Part ID | Part | Equivalent | Function | Usage |
