@@ -5,7 +5,7 @@ SW2 determines the following settings:
 - SW2-1 = Boot ROM A9 address (off=high, on=low)
 - SW2-2 = Boot ROM A10 address (off=high, on=low)
 - SW2-3 = unknown purpose
-- SW2-4 = clock speed (1MHz for FM-8 compatibility, 2MHz)
+- SW2-4 = clock speed (off=2MHz, on=1MHz for FM-8 compatibility)
 
 ## IC BOM
 
