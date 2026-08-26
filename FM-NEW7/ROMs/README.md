@@ -17,9 +17,9 @@ If halt/no boot is selected then the machine will not boot and just show a flash
 
 ## BASIC (M74)
 This is an MB83256 masked ROM (27256) with code 160.<br>
-- code 107 = F-BASIC v3.00
-- code 128 = F-BASIC v3.01
-- code 160 = F-BASIC v3.02
+- code 107 = F-BASIC v3.00 (FM-7)
+- code 128 = F-BASIC v3.01 (FM-7, FM-NEW7 initial)
+- code 160 = F-BASIC v3.02 (FM-NEW7 final)
 
 ## SUBSYS-C (M60)
 This is an MB83256 masked ROM (27256) with code 167.<br>
