@@ -1,5 +1,5 @@
 # FM-NEW7 ROMs
-These are raw dumps from my machine.  I think they probably need some sort of manipulation to use in an emulator, but should be usable as-is to burn new, physical ROMs.<br>
+These are raw dumps from my machines.  I think they probably need some sort of manipulation to use in an emulator, but should be usable as-is to burn new, physical ROMs.<br>
 
 I have two motherboard revisions:
 - 02A ... "FM-NEW7 initial" with F-BASIC v3.01
